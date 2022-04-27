@@ -1,0 +1,34 @@
+{
+  "name": "inici",
+  "version": "1.0.0",
+  "description": "projecte creat per la masterclass d'inicialització de projectes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricia79/masterclass_inici_projecte_270422.git"
+  },
+  "keywords": [
+    "masterclass",
+    "project",
+    "node",
+    "npm",
+    "git"
+  ],
+  "author": "Patricia Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patricia79/masterclass_inici_projecte_270422/issues"
+  },
+  "homepage": "https://github.com/patricia79/masterclass_inici_projecte_270422#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "chalk": "^5.0.1"
+  }
+}
